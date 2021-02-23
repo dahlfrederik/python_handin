@@ -1,6 +1,6 @@
 Name,Gender,Classes,Image url,Grades
-Anders Dahl,Female,"([('Python', '1f', 'Thomas', 15), ('JavaScript', '1e', 'Lars', 15), ('Funktionel programmering', '1d', 'Anders', 7.5)])",google.com,"[4, 7, 10, 12, 7]"
-Frederik Dahl,Female,"([('Python', '1f', 'Thomas', 15), ('JavaScript', '1e', 'Lars', 15), ('Funktionel programmering', '1d', 'Anders', 7.5)])",google.dk,"[2, 4, 10, 2, 7]"
-Anders Dahl,Male,"([('Python', '1f', 'Thomas', 15), ('JavaScript', '1e', 'Lars', 15), ('Funktionel programmering', '1d', 'Anders', 7.5)])",google.com,"[0, 4, 12, 2, 4]"
-Frederik Jensen,Male,"([('Python', '1f', 'Thomas', 15), ('JavaScript', '1e', 'Lars', 15), ('Funktionel programmering', '1d', 'Anders', 7.5)])",google.com,"[2, 0, 7, 4, 10]"
-Josef Dahl,Female,"([('Python', '1f', 'Thomas', 15), ('JavaScript', '1e', 'Lars', 15), ('Funktionel programmering', '1d', 'Anders', 7.5)])",google.dk,"[7, 10, 0, 0, 12]"
+Thor Marc,Female,"([('Python', '1f', 'Thomas', 15), ('JavaScript', '1e', 'Lars', 15), ('Funktionel programmering', '1d', 'Anders', 7.5)])",google.se,"[4, 0, 7, 2, 10]"
+Anders Jensen,Female,"([('Python', '1f', 'Thomas', 15), ('JavaScript', '1e', 'Lars', 15), ('Funktionel programmering', '1d', 'Anders', 7.5)])",google.dk,"[7, 0, 0, 0, 12]"
+Thomas Larsen,Male,"([('Python', '1f', 'Thomas', 15), ('JavaScript', '1e', 'Lars', 15), ('Funktionel programmering', '1d', 'Anders', 7.5)])",google.se,"[10, 4, 2, 0, 4]"
+Thomas Marc,Female,"([('Python', '1f', 'Thomas', 15), ('JavaScript', '1e', 'Lars', 15), ('Funktionel programmering', '1d', 'Anders', 7.5)])",google.com,"[10, 4, 2, 7, 10]"
+Thomas Dahl,Female,"([('Python', '1f', 'Thomas', 15), ('JavaScript', '1e', 'Lars', 15), ('Funktionel programmering', '1d', 'Anders', 7.5)])",google.com,"[2, 12, 4, 4, 4]"
